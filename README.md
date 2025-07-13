@@ -1,6 +1,5 @@
 # 🚗 Intelligent Braking System – Prototype Project
 
-![Prototype](prototype.jpg)
 
 An **Intelligent Braking System (IBS)** represents a significant advancement in automotive safety, combining sensors, control algorithms, and artificial intelligence to prevent accidents, reduce braking distances, and improve vehicle stability in emergency scenarios.
 
@@ -61,7 +60,7 @@ The development of this system followed a structured engineering approach:
 
 | Prototype Image |
 |-----------------|
-| ![Prototype]() |
+| ![Prototype](prototype.jpg)|
 
 ---
 
