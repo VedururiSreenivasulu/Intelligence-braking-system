@@ -61,7 +61,7 @@ The development of this system followed a structured engineering approach:
 
 | Prototype Image |
 |-----------------|
-| ![Prototype](prototype.jpg) |
+| ![Prototype]() |
 
 ---
 
